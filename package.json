@@ -1,0 +1,24 @@
+{
+  "name": "imog",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xl001001/imog.git"
+  },
+  "dependencies": {
+    "@nx-js/observer-util": "^4.2.2",
+    "underscore": "^1.13.2"
+  },
+  "bugs": {
+    "url": "https://github.com/xl001001/imog/issues"
+  },
+  "homepage": "https://github.com/xl001001/imog#readme",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xl001001",
+  "license": "UNLICENSED",
+  "description": ""
+}
